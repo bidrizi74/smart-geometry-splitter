@@ -1,0 +1,28 @@
+[general]
+name=Smart Geometry Splitter
+qgisMinimumVersion=3.22
+
+description=Split polygons by target area and lines by target length directly in the active editable QGIS layer.
+
+about=Smart Geometry Splitter provides cadastral-style geometry splitting tools for active editable vector layers. Polygon tools include split into two parts by target area, divide into equal parts, and divide by area list with remainder. Line tools include split by target length, equal division, and length-list division with remainder. The plugin edits the selected feature in the active layer and preserves attributes.
+
+version=1.0.0
+
+author=Geo-SEE Institute - Bashkim Idrizi
+
+email=info.geosee@gmail.com
+
+category=Vector
+
+tags=geometry,cadastre,split,polygon,line,area,length,editing,divide
+
+homepage=https://github.com/bidrizi74/smart-geometry-splitter
+repository=https://github.com/bidrizi74/smart-geometry-splitter
+tracker=https://github.com/bidrizi74/smart-geometry-splitter/issues
+
+license=GPL-3.0-or-later
+
+icon=icon.png
+
+experimental=False
+deprecated=False

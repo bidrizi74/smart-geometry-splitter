@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="/plugins/smart_geometry_splitter">
+    <file>icon.png</file>
+  </qresource>
+</RCC>
